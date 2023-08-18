@@ -9,7 +9,7 @@ const App = () => {
       <Image source={{uri: 'https://randomuser.me/api/portraits/men/1.jpg'}} style={styles.img}></Image>
     </View>
   );
-}; hello world 
+};
 
 
 const styles = StyleSheet.create({
